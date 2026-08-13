@@ -1,0 +1,12 @@
+------------POST-----------
+http://127.0.0.1:5000/SmartFit
+---------------------------
+{
+  "Nome: Pedro Folk"
+  "Genêro: Masculino"
+  "Endereço: Mansões santo Antônio, rua hermantino Coelho númeor 1000"
+  "Idade: 34"
+}
+------------GET------------
+http://127.0.0.1:5000/SmartFit
+---------------------------
